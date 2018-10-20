@@ -36,7 +36,7 @@ def main
     v2=gets.chomp
     tester.add(k2,v2)
     tester.render
-    
+ 
     # test 3
     puts "For test 3, myclass.rb needs an additional class, MyClassB.  It should be"
     puts "a child class of MyClass.  ( class MyClassB < MyClass ).  But for the"
