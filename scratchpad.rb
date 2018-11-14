@@ -12,8 +12,16 @@ end
 print my_array(my_hash)
 
 
-def my_array_2
-    mult_arr = my_array(my_hash)
+
+
+
+
+
+
+def my_array_2(hash)
+    mult_arr =
+    
+    my_array(my_hash)
     mult_arr.map {|k, v| v*3}
     return mult_arr
 end
